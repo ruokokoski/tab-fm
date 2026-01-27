@@ -1,2 +1,2 @@
-# Tabular Foundation models
+# Tabular Foundation Models
 
